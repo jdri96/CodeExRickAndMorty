@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_detail_episodes">Episodes:</string>
+    <string name="character_detail_origin">Origin:</string>
+    <string name="character_detail_location">Location:</string>
+    <string name="character_detail_species">Species:</string>
+    <string name="character_detail_status">Status:</string>
+</resources>

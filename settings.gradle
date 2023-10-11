@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "rickandmorty"
+include ':app'
+include ':core'
+include ':core:network'
+include ':core:theme'
+include ':core:navigation'
+include ':core:extensions'
+include ':features:list'
+include ':features:details'

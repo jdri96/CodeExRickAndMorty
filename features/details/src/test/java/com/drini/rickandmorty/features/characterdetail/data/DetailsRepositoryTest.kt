@@ -1,0 +1,3 @@
+package com.drini.rickandmorty.features.characterdetail.data
+
+class DetailsRepositoryTest

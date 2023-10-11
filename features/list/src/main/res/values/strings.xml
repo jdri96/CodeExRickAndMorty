@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_list_logo_content_description">Rick And Morty</string>
+    <string name="character_list_status_format">"%s - %s"</string>
+    <string name="character_list_retry">Retry</string>
+</resources>
